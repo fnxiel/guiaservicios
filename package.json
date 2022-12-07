@@ -6,7 +6,10 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "crearservicio": "ng generate service notificaciones",
+    "crearComponente": "ng generate component primeraPantalla",
+    "crearComponente2": "ng generate component segundaPantalla"
   },
   "private": true,
   "dependencies": {
